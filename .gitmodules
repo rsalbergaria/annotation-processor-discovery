@@ -1,0 +1,6 @@
+[submodule "annotation-processor"]
+	path = annotation-processor
+	url = https://github.com/rsalbergaria/annotation-processor.git
+[submodule "annotation-processor-project"]
+	path = annotation-processor-project
+	url = https://github.com/rsalbergaria/annotation-processor-project.git
